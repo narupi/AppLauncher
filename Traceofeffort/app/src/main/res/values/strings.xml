@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Traceofeffort</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_s_">s_Activity</string>
+    <string name="title_activity_delete2">Delete2Activity</string>
+    <string name="title_activity_drag_drop_list_sample">DragDropListSampleActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hinttext">起動したいアプリを入力してください</string>
+    <string name="hinttext2">削除したいアプリを入力してください</string>
+    <string name="title_activity_select">SelectActivity</string>
+    <string name="title_activity_cs">CsActivity</string>
+    <string name="title_activity_themostuse">Themostuse</string>
+    <string name="title_activity_most_use">most_use</string>
+    <string name="title_activity_memo">Memo</string>
+    <string name="title_activity_note">Note</string>
+    <string name="title_activity_ck">ckActivity</string>
+    <string name="title_activity_tab1_fragment">Tab1Fragment</string>
+    <string name="title_activity_tab2_fragment">Tab2Fragment</string>
+    <string name="title_activity_tab3_fragment">Tab3Fragment</string>
+</resources>
